@@ -10,7 +10,7 @@ audio = ["dep:rodio"]
 anyhow = "1.0.89"
 bytes = "1.7.2"
 chrono = { workspace = true }
-clap = { version = "4.5.19", features = ["derive"] }
+clap = { version = "4.5.20", features = ["derive"] }
 client_derive = { path = "../client_derive" }
 common = { path = "../common", features = ["client"] }
 crossterm = { version = "0.28.1", features = ["serde"] }
