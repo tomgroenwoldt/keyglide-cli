@@ -9,7 +9,7 @@ chrono = { workspace = true }
 common = { path = "../common" }
 fake = "2.10.0"
 futures-util = "0.3.31"
-serde_json = "1.0.128"
+serde_json = "1.0.132"
 strsim = "0.11.1"
 tokio = { version = "1.40.0", features = ["full"] }
 tokio-tungstenite = "0.24.0"

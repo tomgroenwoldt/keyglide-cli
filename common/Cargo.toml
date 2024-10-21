@@ -9,7 +9,7 @@ client = ["dep:tokio-tungstenite"]
 [dependencies]
 chrono = { workspace = true }
 serde = { workspace = true }
-serde_json = "1.0.128"
+serde_json = "1.0.132"
 strum = { workspace = true }
 tokio-tungstenite = { version = "0.24.0", optional = true }
 uuid = { version = "1.10.0", features = ["serde", "v4"] }
