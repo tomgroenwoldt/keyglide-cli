@@ -8,7 +8,7 @@ audio = ["dep:rodio"]
 
 [dependencies]
 anyhow = "1.0.90"
-bytes = "1.7.2"
+bytes = "1.8.0"
 chrono = { workspace = true }
 clap = { version = "4.5.20", features = ["derive"] }
 client_derive = { path = "../client_derive" }
