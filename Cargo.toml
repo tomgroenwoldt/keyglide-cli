@@ -4,5 +4,5 @@ members = ["backend", "client", "client_derive", "common"]
 
 [workspace.dependencies]
 chrono = { version = "0.4.38", features = ["serde"] }
-serde = { version = "1.0.210", features = ["derive"] }
+serde = { version = "1.0.214", features = ["derive"] }
 strum = { version = "0.26.3", features = ["derive"] }
