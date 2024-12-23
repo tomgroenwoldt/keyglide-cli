@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-anyhow = "1.0.90"
+anyhow = "1.0.95"
 chrono = { workspace = true }
 common = { path = "../common" }
 fake = "2.10.0"
