@@ -11,7 +11,7 @@ fake = "2.10.0"
 futures-util = "0.3.31"
 serde_json = "1.0.132"
 strsim = "0.11.1"
-tokio = { version = "1.40.0", features = ["full"] }
+tokio = { version = "1.43.0", features = ["full"] }
 tokio-tungstenite = "0.24.0"
 tracing = "0.1.40"
 tracing-subscriber = "0.3.18"
